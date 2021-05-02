@@ -1,0 +1,28 @@
+admin				| teknisi			| user
+-------------------------------------------------------------------------------
+info_login			| info_login			| info_login
+data_login			| data_login			| data_login
+
+info_spare_part			| info_sparepart		|
+data_spare_part			|				|
+
+info_order			| info_order			| info_order
+data_order			| data_order			| data_order
+
+info_saran_dan_komplain		| info_saran_dan_komplain	| info_saran_dan_komplain
+data_saran_dan_komplain		| data_saran_dan_komplain	| data_saran_dan_komplain
+
+info_biodata			| info_biodata			| info_biodata
+data_biodata			| data_biodata			| data_biodata
+
+info_user			| info_user			| info_user
+data_user			|				|
+
+info_jasa			| 				| info_jasa
+data_jasa			|				|
+
+info_grafik			| info_grafik			|
+
+info_formulir_service		|				|
+
+laporan_pendapatan		|				|
