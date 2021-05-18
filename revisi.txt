@@ -1,0 +1,6 @@
+- ubah nama pemilik menjadi nama pengguna
+- menambah pengesahan di laporan
+- menambah jasa di order
+- menghapus status pembayaran
+- mengubah username teknisi di dalam order menjadi nama teknisi
+- menambah currency di laporan

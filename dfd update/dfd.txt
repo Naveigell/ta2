@@ -7,7 +7,7 @@ info_spare_part			| info_sparepart		|
 data_spare_part			|				|
 
 info_order			| info_order			| info_order
-data_order			| data_order			| data_order
+data_order			| data_order			| 
 
 info_saran_dan_komplain		| info_saran_dan_komplain	| info_saran_dan_komplain
 data_saran_dan_komplain		| data_saran_dan_komplain	| data_saran_dan_komplain
