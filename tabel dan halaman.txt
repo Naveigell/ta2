@@ -1,0 +1,5 @@
+Tabel 2.1				-> 7
+Tabel 2.2				-> 11
+Tabel 2.3				-> 13
+Tabel 4.1 Analisa Pengguna		-> 19
+Tabel 4.2 Analisa Data			-> 
